@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/drawable/border.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/drawable/ic_baseline_access_time_filled_24.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/layout/activity_clinic.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/layout/activity_doctor.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/layout/item_view_clinic.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/layout/item_view_doctor.xml" value="0.264" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID/OTHERS/Excercises/ClinicApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/Excercises/ClinicApp/app/src/main/res/drawable/ic_baseline_night_shelter_24.xml" value="0.2703125" />
+        <entry key="..\:/Excercises/ClinicApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Excercises/ClinicApp/app/src/main/res/layout/item_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Excercises/ClinicApp/app/src/main/res/layout/item_view_clinic.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
